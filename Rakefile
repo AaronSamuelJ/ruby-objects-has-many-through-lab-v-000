@@ -5,6 +5,6 @@ def reload!
 end
 
 
-task :console do 
-  Pry.start 
+task :console do
+  Pry.start
 end
